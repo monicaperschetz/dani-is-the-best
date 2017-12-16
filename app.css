@@ -1,0 +1,17 @@
+/* this is a CSS comment */
+/*
+	comments are multilined as well
+*/
+/*
+	search-query {rule: value;}
+*/
+
+h1 {
+		color:purple;
+		font-weight: 900;
+}
+
+p {
+		color: black;
+		font-style: italic;
+}
